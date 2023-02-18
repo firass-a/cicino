@@ -1,0 +1,121 @@
+
+
+.tcontainer
+{
+    background-color:rgb(255, 60, 0);
+    border: 50px;
+    border-radius: 10px;
+    
+}
+.text
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: sans-serif;
+
+}
+.headerr{
+    font-family: sans-serif ;
+    text-align: center;
+}
+.gg {
+    margin-top: 10px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 475px;
+}
+
+
+
+.description
+{
+    height: 300px;
+}
+.txt{
+    text-align: center;
+    color: #0075B6;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: sans-serif;
+    margin-bottom: 1%;
+    height: 50px;
+    margin-top: 5px;
+}
+
+.row-1 {
+    width: 600px;
+    text-align: center;
+    padding: 12px 0 0 0;
+    border: 1px solid #000;
+    border-bottom: 10 !important;
+    border-radius: 10px 0 0 0;
+}
+
+.row2
+{
+    width: 600px;
+    text-align: center;
+    padding: 12px 0 0 0;
+    border: 1px solid #000;
+    border-bottom: 10 !important;
+    border-radius: 0px 10px 0px 0 ;
+}
+
+.row_row{
+    display: flex;
+    margin-left: 30px
+}
+
+
+
+span
+{
+    
+        margin: 30px;
+        align-items: center;
+        display: inline-block;
+    
+}
+
+input{
+    border: 1px solid gray;
+    border-radius: 4px;
+   
+}
+
+.formgroup{
+    width: 555px;
+    margin-left: 350px;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.method 
+{
+    font-family: sans-serif;
+}
+
+.validation {
+    width: 555px;
+    border: 1px solid grey;
+    text-align: center;
+    margin-left: 350px;
+}
+
+
+
+button{
+    border: 1px solid;
+    background-color: rgb(107, 173, 176);
+    margin-top: 20px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+}
